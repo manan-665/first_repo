@@ -1,2 +1,2 @@
 # first_repo
-understand git
+understand git. my name is manan shah
